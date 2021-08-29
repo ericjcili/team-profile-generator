@@ -16,7 +16,8 @@
 [Questions](#questions)
 
 ## Description:
-    This application automatically generates a fully-functional HTML website that lists your team members. User input is recieved through the command line
+    This application automatically generates a fully-functional HTML website that lists your team members. User input is recieved through the command line.
+    An demonstration video can be found here: https://www.youtube.com/watch?v=usFe1f20sVo
 ## Installation:
     Copy the GitHub SSH link and clone the project to desired computer directory.
 ## Usage:
@@ -24,7 +25,7 @@
 ## Contributors:
     Eric Cili
 ## Testing:
-    Testing for this project was done with Jest
+    Testing for this project was done with Jest. You can find the test files in the __tests__ directory.
 ## Questions:
     - GitHub Username: [ericjcili]
     - GitHub link: https://github.com/ericjcili
